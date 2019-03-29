@@ -7,3 +7,4 @@ If you use these codes in your research, please cite our paper in your research:
 "A fast noniterative algorithm for compressive sensing using binary measurement matrices"
 DOI: 10.1109/TSP.2018.2841881
 authors: Mahsa Lotfi and Mathukumalli Vidyasagar
+https://ieeexplore.ieee.org/document/8368314
